@@ -1,0 +1,50 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/carving_knife": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/totemic_focus": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/incense_kindling_box": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/offering_box": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/wolf_totem_bauble": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/sacred_light": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  },
+  "mobtotems:recipes/root": {
+    "criteria": {
+      "auto_unlock": "2019-08-09 00:12:27 -0500"
+    },
+    "done": true
+  }
+}
